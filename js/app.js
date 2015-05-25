@@ -382,3 +382,5 @@ function initializeMap() {
 
     infowindow.open(map, marker);
 }
+
+cheet('↑ ↑ ↓ ↓ ← → ← → b a', function () { alert('You entered the Konami code! ;)'); });
