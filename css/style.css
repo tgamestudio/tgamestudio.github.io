@@ -235,6 +235,23 @@ p {
     background-color:#669900;
     color:#181A1C;
 }
+.windowsstore {
+    height: 67px;
+    width: 258px;
+    background: url(../images/windowsbuttons/English_wstore_rev_black_258x67.png) no-repeat;
+}
+.windowsstore:hover {
+    background: url(../images/windowsbuttons/English_wstore_black_258x67.png) no-repeat;
+}
+.windowsphonestore {
+    height: 67px;
+    width: 258px;
+    background: url(../images/windowsbuttons/English_wphone_rev_black_258x67.png) no-repeat;
+}
+.windowsphonestore:hover {
+    background: url(../images/windowsbuttons/English_wphone_black_258x67.png) no-repeat;
+}
+
 /*
 2.3 Thumbnails - Predefined bootstrap's thumbnail class.
 **********/
@@ -334,6 +351,7 @@ p {
 .social li a:hover {
     color:#181A1C;
 }
+
 /*
 3. Sections 
 ***************************************************************************/
