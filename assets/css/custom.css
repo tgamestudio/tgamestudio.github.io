@@ -1,3 +1,38 @@
 body {
-  background-color:#181818 ;
+	background-color:#181818;
+}
+
+.panel-dark {
+	
+	
+	background-color:#181818
+}
+
+.windowsbutton {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 258px;
+	height: 67px;
+	/*content: url(../img/windowsbuttons/English_wstore_rev_black_258x67.png) no-repeat;*/
+	/*src="assets/img/windowsbuttons/English_wstore_rev_black_258x67.png"*/
+}
+
+.windowsphonestore {
+
+}
+
+.simplelist {
+	list-style: none;
+}
+
+.media-object {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+
+.projectlink {
+	width: 100px;
 }
